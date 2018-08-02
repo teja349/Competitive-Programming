@@ -1,3 +1,5 @@
+//IDEA: locus of points from which same angle to two circles is apalonus circle or line(if same radius). now take intersection of two locus and check all common points 
+
 //teja349
 #include <bits/stdc++.h>
 #include <vector>

@@ -1,3 +1,5 @@
+
+IDEA: Exactly same as second solution for the problem in http://bubblecup.org/Content/Media/Booklet2018.pdf
 //teja349
 #include <bits/stdc++.h>
 #include <vector>
